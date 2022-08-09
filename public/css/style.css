@@ -1,0 +1,70 @@
+.text {
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.form-section {
+    margin-top: 10px;
+}
+
+.title {
+    margin-top: 10px;
+}
+
+.detail {
+    margin-top: 10px;
+}
+
+.submit {
+    margin-top: 10px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex >div {
+    flex-grow: 1;
+}
+
+.flex {
+    display: flex;
+}
+
+.logo {
+    font-size: 20px;
+}
+
+.nav {
+    padding: 15px 20px;
+}
+
+/* .list {
+    margin-left: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    color: gray;
+} */
+
+/* .setting {
+    margin-left: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    color: gray;
+}
+
+.menu {
+    margin-left: 60px;
+    cursor: pointer;
+    font-size: 16px;
+    color: gray;
+}
+
+.refresh {
+    margin-left: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    color: gray;
+} */
